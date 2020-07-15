@@ -18,7 +18,7 @@ I’m currently looking for new opportunities where I can grow as a software dev
    - A space shooter game made with Phaser 3, only takes a few seconds to start playing in your web browser, and share your score with your friends in an online leaderboard.
       - Javascript
 * The Station
-   - A web appication about the latest news in video games, console releases and everything related to gaming.
+   - A web application about the latest news in video games, console releases and everything related to gaming.
       - Ruby on Rails
 * Linter
    - A simple linter that detects and suggests better alternatives for your code in ruby.

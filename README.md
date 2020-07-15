@@ -1,6 +1,6 @@
 
 <div style="display: flex; align-items: center;">
-<img align="right" width="480" height="270" src="https://media3.giphy.com/media/ggWVP9U8J7q3akzXsk/giphy.gif">
+<img align="right" width="460" height="270" src="https://media3.giphy.com/media/ggWVP9U8J7q3akzXsk/giphy.gif">
 
 <div>  
   

@@ -1,6 +1,8 @@
 
+<div style="display: flex; align-items: center;">
 <img align="right" width="540" height="320" src="https://media3.giphy.com/media/ggWVP9U8J7q3akzXsk/giphy.gif">
 
+<div>  
   
 ### About me 📇
 <div style="text-align: justify;"> 
@@ -16,7 +18,8 @@ I also launched RemoteList, which until now is the largest list on the internet 
 
 I’m currently looking for new opportunities where I can grow as a software developer and finally made the career switch to this field. 
 </div>
-
+</div>
+</div>
 
 ### Get in touch 📟
 If you have some minutes to spare, would you like to connect on [LinkedIn](https://www.linkedin.com/in/isaacmunguia/) or [AngelList](https://angel.co/u/idgm)? 

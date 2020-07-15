@@ -12,11 +12,13 @@ Hello, I’m Isaac and I’m currently enrolled in Microverse which is an online
 
 Before joining Microverse, I was enrolled in an MBA program in Finance which I graduated in 2019, and previously I was working as an industrial engineer for a global supplier of wires, cables, and wiring systems for big auto car companies like Volvo and General Motors. 
 
-<br/>
+
 I also launched RemoteList, which until now is the largest list on the internet for job boards advertising remote jobs. It was the best product of the day in Product Hunt in 2018. 
 
 
 I’m currently looking for new opportunities where I can grow as a software developer and finally made the career switch to this field. 
+
+
 </div>
 </div>
 </div>

@@ -1,7 +1,7 @@
 ![](https://media3.giphy.com/media/ggWVP9U8J7q3akzXsk/giphy.gif)
   
 ### About me 📇
-<p style="text-align: justify;
+<div style="text-align: justify;
 text-justify: inter-word;"> 
   
 Hello, I’m Isaac and I’m currently enrolled in Microverse which is an online boot camp for software developers, I’m also mentoring a few students that started the program some months after me and I’m close to graduate in a couple of months.  
@@ -11,7 +11,7 @@ Before joining Microverse, I was enrolled in an MBA program in Finance which I g
 I also launched RemoteList, which until now is the largest list on the internet for job boards advertising remote jobs. It was the best product of the day in Product Hunt in 2018.
 
 I’m currently looking for new opportunities where I can grow as a software developer and finally made the career switch to this field. 
-</p>
+</div>
 
 ### Get in touch 📟
 If you have some minutes to spare, would you like to connect on [LinkedIn](https://www.linkedin.com/in/isaacmunguia/) or [AngelList](https://angel.co/u/idgm)? 

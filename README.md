@@ -1,4 +1,7 @@
-![](https://media3.giphy.com/media/ggWVP9U8J7q3akzXsk/giphy.gif)
+<p align="center">
+  <img src="https://media3.giphy.com/media/ggWVP9U8J7q3akzXsk/giphy.gif" alt="gif">
+  </p>
+
   
 ### About me 📇
   

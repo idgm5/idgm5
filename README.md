@@ -1,22 +1,20 @@
 
 <div style="display: flex; align-items: center;">
-<img align="right" width="540" height="320" src="https://media3.giphy.com/media/ggWVP9U8J7q3akzXsk/giphy.gif">
+<img align="right" width="480" height="270" src="https://media3.giphy.com/media/ggWVP9U8J7q3akzXsk/giphy.gif">
 
 <div>  
   
 ### About me 📇
-<div style="text-align: left;"> 
+<p style="text-align: justify;
+text-justify: inter-word;"> 
   
 Hello, I’m Isaac and I’m currently enrolled in Microverse which is an online boot camp for software developers, I’m also mentoring a few students that started the program some months after me and I’m close to graduate in a couple of months.  
 
 
 Before joining Microverse, I was enrolled in an MBA program in Finance which I graduated in 2019, and previously I was working as an industrial engineer for a global supplier of wires, cables, and wiring systems for big auto car companies like Volvo and General Motors. 
 
-I also launched RemoteList, which until now is the largest list on the internet for job boards advertising remote jobs. 
-
-
-It was the best product of the day in Product Hunt in 2018.
-</div>
+I also launched RemoteList, which until now is the largest list on the internet for job boards advertising remote jobs. It was the best product of the day in Product Hunt in 2018.
+</p>
 </div>
 </div>
 

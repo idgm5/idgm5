@@ -1,4 +1,4 @@
-![](https://media3.giphy.com/media/ggWVP9U8J7q3akzXsk/giphy.gif)
+![](ihavesolutions.gif)
 ### About me 📇
 Hello, I’m Isaac and I’m currently enrolled in Microverse which is an online boot camp for software developers, I’m also mentoring a few students that started the program some months after me and I’m close to graduate in a couple of months.  
 

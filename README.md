@@ -14,7 +14,7 @@ Before joining Microverse, I was enrolled in an MBA program in Finance which I g
 
 <br/>
 I also launched RemoteList, which until now is the largest list on the internet for job boards advertising remote jobs. It was the best product of the day in Product Hunt in 2018. 
-
+<br/>
 
 I’m currently looking for new opportunities where I can grow as a software developer and finally made the career switch to this field. 
 

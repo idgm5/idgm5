@@ -29,7 +29,7 @@ I’m currently looking for new opportunities where I can grow as a software dev
 
 ## Writing 📝
 * [How to upload a phaser game with Webpack to Heroku? (No Express)](https://levelup.gitconnected.com/how-to-upload-a-phaser-game-with-webpack-to-heroku-no-express-e083ab741dc3)
-   - Learn how to upload a PhaserJS game with Webpack to Heroku, without the use of Express.JS by just typing a couple lines of magic ✨
+   - Learn how to upload a PhaserJS game with Webpack to Heroku, without the use of Express.JS by just typing a couple lines of code.
 * [How to put text over images with CSS?](https://levelup.gitconnected.com/how-to-put-text-over-images-with-css-596ab68c0b0b)
    - Learn how to properly make use of backgrounds attributes in CSS to attach text over images including backgrounds effects and mobile responsiveness.
 

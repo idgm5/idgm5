@@ -14,18 +14,24 @@ I also launched RemoteList.pw, which until now is the largest list on the intern
 I’m currently looking for new opportunities where I can grow as a software developer and finally made the career switch to this field. 
 
 ## Latest Projects 🔭
-* StarTrooper
+* [StarTrooper](https://github.com/idgm5/shootergame)
    - A space shooter game made with Phaser 3, only takes a few seconds to start playing in your web browser, and share your score with your friends in an online leaderboard.
       - Javascript
-* The Station
+* [The Station](https://github.com/idgm5/lifestyle)
    - A web application about the latest news in video games, console releases and everything related to gaming.
       - Ruby on Rails
-* Linter
+* [Linter](https://github.com/idgm5/linter)
    - A simple linter that detects and suggests better alternatives for your code in ruby.
       - Ruby
-* Salubris
+* [Salubris](https://github.com/idgm5/directory)
    - A directory for COVID-19 Testing Stations.
       - HTML/CSS
+
+## Writing 📝
+* [How to upload a phaser game with Webpack to Heroku? (No Express)](https://levelup.gitconnected.com/how-to-upload-a-phaser-game-with-webpack-to-heroku-no-express-e083ab741dc3)
+   - Learn to upload a PhaserJS game with Webpack to Heroku, without the use of Express.JS by just typing a couple lines of magic ✨
+* [How to put text over images with CSS?](https://levelup.gitconnected.com/how-to-put-text-over-images-with-css-596ab68c0b0b)
+   - Learn how to properly make use of backgrounds attributes in CSS to attach text over images including backgrounds effects and mobile responsiveness.
 
 ## Get in touch 📟
 If you have some minutes to spare, would you like to connect on [LinkedIn](https://www.linkedin.com/in/isaacmunguia/) or [AngelList](https://angel.co/u/idgm)? 

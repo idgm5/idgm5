@@ -14,6 +14,9 @@ I also launched RemoteList.pw, which until now is the largest list on the intern
 I’m currently looking for new opportunities where I can grow as a software developer and finally made the career switch to this field. 
 
 ## Latest Projects 🔭
+* [Hungry House](https://github.com/idgm5/catalogue)
+   - Hungry House allows you to access a large collection of gourmet recipes around the world. You can choose from a food category or use the search box to look for a recipe that uses a specific ingredient.
+      - React/Redux
 * [StarTrooper](https://github.com/idgm5/shootergame)
    - A space shooter game made with Phaser 3, only takes a few seconds to start playing in your web browser, and share your score with your friends in an online leaderboard.
       - Javascript

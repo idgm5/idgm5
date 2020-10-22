@@ -21,7 +21,6 @@ I’m currently looking for new opportunities where I can grow as a software dev
 * [2700ETH Homepage](https://github.com/idgm5/2700eth-page)
    - The 2700ETH homepage is a 1 million pixel page powered by a smart contract that allows anyone to bid for each one of the pixels using ether.
       - Solidity
-      - Javascript
 * [Hungry House](https://github.com/idgm5/catalogue)
    - Hungry House allows you to access a large collection of gourmet recipes around the world. You can choose from a food category or use the search box to look for a recipe that uses a specific ingredient.
       - React/Redux

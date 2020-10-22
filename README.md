@@ -15,7 +15,7 @@ I’m currently looking for new opportunities where I can grow as a software dev
 
 ## Latest Projects 🔭
 * [Vespa Bikes](https://github.com/idgm5/appointment)
-   - A catalogue for Vespa Bikes. Users can create a username to register appointments and select a bike model from the list to test drive. Built with React/Redux for the front-end and Ruby on Rails for the backend
+   - A catalogue for Vespa Bikes. Users can create a username to register appointments and select a bike model from the list to test drive. Built with React/Redux for the front-end and Ruby on Rails for the backend.
       - React/Redux
       - Ruby on Rails
 * [2700ETH Homepage](https://github.com/idgm5/2700eth-page)

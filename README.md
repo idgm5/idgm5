@@ -45,8 +45,7 @@ I’m currently looking for new opportunities where I can grow as a software dev
    - Learn how to properly make use of backgrounds attributes in CSS to attach text over images including backgrounds effects and mobile responsiveness.
 
 ## Get in touch 📟
-If you have some minutes to spare, would you like to connect on [LinkedIn](https://www.linkedin.com/in/isaacmunguia/) or [AngelList](https://angel.co/u/idgm)? 
-
+You can reach me at [LinkedIn](https://www.linkedin.com/in/isaacmunguia/) or [AngelList](https://angel.co/u/idgm). Be in touch!"
 
 <!--
 **idgm5/idgm5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

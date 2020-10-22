@@ -14,6 +14,14 @@ I also launched RemoteList.pw, which currently is the largest-list on the intern
 I’m currently looking for new opportunities where I can grow as a software developer and finally made the career switch to this field.
 
 ## Latest Projects 🔭
+* [Vespa Bikes](https://github.com/idgm5/appointment)
+   - A catalogue for Vespa Bikes. Users can create a username to register appointments and select a bike model from the list to test drive. Built with React/Redux for the front-end and Ruby on Rails for the backend
+      - React/Redux
+      - Ruby on Rails
+* [2700ETH Homepage](https://github.com/idgm5/2700eth-page)
+   - The 2700ETH homepage is a 1 million pixel page powered by a smart contract that allows anyone to bid for each one of the pixels using ether.
+      - Solidity
+      - Javascript
 * [Hungry House](https://github.com/idgm5/catalogue)
    - Hungry House allows you to access a large collection of gourmet recipes around the world. You can choose from a food category or use the search box to look for a recipe that uses a specific ingredient.
       - React/Redux

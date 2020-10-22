@@ -5,13 +5,13 @@
   
 ## About me 📇
   
-Hello, my name is Isaac Gonzalez and I'm a student in the Microverse program, an online school for software developers. I also mentor a few students that started the program some months after me, and I graduated from the technical curriculum in October of this year.
+Hello, my name is Isaac Gonzalez and I'm a student in the Microverse program, an online school for software developers. I also mentor a few students that started the program a few months after me and I graduated from the technical curriculum in October of this year.
 
-Before joining Microverse, I was enrolled in an MBA program in Finance and graduated in 2019, before I was working as an industrial engineer for a global supplier of wires, cables, and wiring systems for big auto car companies like Volvo and General Motors.
+I completed an MBA program in Finance in 2019, and before that, I worked as an industrial engineer for a global supplier of wires, cables, and wiring systems for big auto car companies such as Volvo and General Motors.
 
-I also launched RemoteList.pw, which currently is the largest-list on the internet for job boards advertising remote jobs. It was the second-best product of the day in Product Hunt in 2018.
+I also launched RemoteList.pw, which remains the largest list on the internet for job boards advertising remote jobs. It was awarded the Product of the Day on Product Hunt when it premiered in 2018.
 
-I’m currently looking for new opportunities where I can grow as a software developer and finally made the career switch to this field.
+I’m currently looking for new opportunities where I can grow as a software developer and grow in the field!
 
 ## Latest Projects 🔭
 * [Vespa Bikes](https://github.com/idgm5/appointment)

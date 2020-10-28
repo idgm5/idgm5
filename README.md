@@ -11,7 +11,7 @@ I completed an MBA program in Finance in 2019, and before that, I worked as an i
 
 I also launched RemoteList.pw, which remains the largest list on the internet for job boards advertising remote jobs. It was awarded the Product of the Day on Product Hunt when it premiered in 2018.
 
-I’m currently looking for new opportunities where I can grow as a software developer and grow in the field!
+I’m currently looking for new opportunities where I can grow as a software developer and contribute my technical expertise to the industry.
 
 ## Latest Projects 🔭
 * [Vespa Bikes](https://github.com/idgm5/appointment)

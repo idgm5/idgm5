@@ -1,17 +1,3 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/ggWVP9U8J7q3akzXsk/giphy.gif" alt="gif">
-  </p>
-
-  
-## About me 📇
-  
-Hello, my name is Isaac Gonzalez and I'm a student in the Microverse program, an online school for software developers. I also mentor a few students that started the program a few months after me and I graduated from the technical curriculum in October of this year.
-
-I completed an MBA program in Finance in 2019, and before that, I worked as an industrial engineer for a global supplier of wires, cables, and wiring systems for big auto car companies such as Volvo and General Motors.
-
-I also launched RemoteList.pw, which remains the largest list on the internet for job boards advertising remote jobs. It was awarded the Product of the Day on Product Hunt when it premiered in 2018.
-
-I’m currently looking for new opportunities where I can grow as a software developer and contribute my technical expertise to the industry.
 
 ## Latest Projects 🔭
 * [Vespa Bikes](https://github.com/idgm5/appointment)
@@ -44,7 +30,7 @@ I’m currently looking for new opportunities where I can grow as a software dev
    - Learn how to properly make use of backgrounds attributes in CSS to attach text over images including backgrounds effects and mobile responsiveness.
 
 ## Get in touch 📟
-You can reach me at [LinkedIn](https://www.linkedin.com/in/isaacmunguia/) or [AngelList](https://angel.co/u/idgm). Be in touch! ✨
+You can reach me at [Twitter](https://www.twitter.com/idgm5). Be in touch! ✨
 
 <!--
 **idgm5/idgm5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

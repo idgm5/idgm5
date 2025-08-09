@@ -1,5 +1,14 @@
-
 ## Latest Projects 🔭
+* [Saro](https://github.com/idgm5/saro)
+   - A personal AI chatbot powered by Llama 4, running locally on your hardware without APIs. Witty, sarcastic, multilingual, Telegram integration with voice replies. Built with Python and Llama.cpp
+      - Python 3.11
+      - Llama-4-Scout-17B-16E-Instruct-UD-Q3_K_XL
+      - python-telegram-bot
+      - Custom AI generated voice with built in TTS.
+* [Vespa Bikes](https://github.com/idgm5/appointment)
+   - A catalogue for Vespa Bikes. Users can create a username to register appointments and select a bike model from the list to test drive. Built with React/Redux for the front-end and Ruby on Rails for the backend.
+      - React/Redux
+      - Ruby on Rails
 * [Vespa Bikes](https://github.com/idgm5/appointment)
    - A catalogue for Vespa Bikes. Users can create a username to register appointments and select a bike model from the list to test drive. Built with React/Redux for the front-end and Ruby on Rails for the backend.
       - React/Redux
